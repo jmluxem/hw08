@@ -1,0 +1,7 @@
+{
+  "name": "friend-redux",
+  "short_name": "friend-redux",
+  "description": "Friend list using Redux/Mixins",
+  "start_url": "/",
+  "display": "standalone"
+}
